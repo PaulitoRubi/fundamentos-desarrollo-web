@@ -1,1 +1,3 @@
-alert("Hola Git!")
+const correo = document.getElementById("correo")
+
+console.log(correo)
